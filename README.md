@@ -2,6 +2,8 @@
 
 Power module PCB for running a Raspberry Pi Zero inside a NumWorks calculator.
 
+![Assembled PCB](images/pcb-assembled-top.jpg)
+
 ## Specs
 - **Input:** USB 5V 1A
 - **Battery:** 3.7V LiPo (TP4056 charger, 600mA)
